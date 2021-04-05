@@ -1,0 +1,38 @@
+h1{
+    color:red;
+    font-weight: bold;
+}
+
+.navbar{
+    background-color:lightskyblue;
+}
+
+.nav-link {
+    color:black !important;
+    }
+
+.home{
+    background-image: url("bg.jpg");
+}
+
+.nav-item{
+    padding:18px 30px;
+}
+
+.navbar-nav li a:hover{
+    background-color: white;
+}
+
+.donate{
+    background-color:honeydew;
+}
+
+#donor{
+    padding-top:5%;
+    padding-bottom:5%;
+    
+}
+
+#hd{
+    padding-top: 5%;
+}
